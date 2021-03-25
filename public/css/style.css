@@ -1,0 +1,15 @@
+
+/* ------------- HEADER ---------------*/
+.skin-blue .main-header .navbar {
+    background-color: #4d545b   !important;
+}
+
+/* ------------- SOMBRAS DEL HEADER ---------------*/
+.main-header {
+    box-shadow: 0 14px 28px rgba(0,0,0,.25),0 10px 10px rgba(0,0,0,.22);
+}
+.box.box-primary {
+    margin-top:15px;
+    padding-top: 15px;
+}
+
