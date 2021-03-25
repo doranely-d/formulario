@@ -9,10 +9,7 @@ defined('APP_PATH') || define('APP_PATH', BASE_PATH . '/app');
 return new \Phalcon\Config([
     'database' => [
         'adapter'     => 'Mysql',
-        'host'        => 'sql349.main-hosting.eu',
         'port'     => 3306,
-        'username'    => 'u314659280_formulario',
-        'password'    => 'Formulario2021',
         'dbname'      => 'u314659280_formulario',
         'charset'     => 'utf8',
     ],
